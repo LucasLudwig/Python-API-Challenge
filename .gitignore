@@ -1,1 +1,2 @@
-/Users/lucasludwig/Desktop/Python-API-Challenge/starter_code/api_keys.py 
+# Adding config.py file to .gitignore
+api_keys.py = "/Users/lucasludwig/Desktop/Python-API-Challenge/starter_code/api_keys.py"
